@@ -4,4 +4,4 @@ Proyecto de Preprocessing
 
 pasos>
 
-1. limpiar
+1. limpiar los datos
